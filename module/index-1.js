@@ -3,3 +3,4 @@
 
     b = 2 // ReferenceError: a is not defined
 */
+console.log('hello module');
