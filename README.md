@@ -17,3 +17,11 @@ $ npm i
 ```bash
 $ node serve.js
 ```
+
+5. AMD
+```bash
+{
+    "presets": ["env"],
+    "plugins": ["transform-es2015-modules-amd"]
+}
+```
